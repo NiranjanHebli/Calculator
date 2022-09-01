@@ -1,5 +1,5 @@
 
-# Scientific Calculator  
+#Calculator  
 
 ♦The code is written in java using the fundamental classes of java awt package
 
