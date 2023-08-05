@@ -10,7 +10,7 @@
 
 ## Acknowledgements
 
-♦I would like to express my special thanks of gratitude to our teacher Dr Purushothama B.R  to give us a golden opportunity to do the project on doing a C project on Hospital System Management  
+♦I would like to express my special thanks of gratitude to our teacher Dr Purushothama B.R  to give us a golden opportunity to do the project on doing a Java project on Scientific Calculator
 ## Technologies
 •Java
 
